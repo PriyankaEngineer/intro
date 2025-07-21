@@ -1,5 +1,0 @@
-weight =input('Enter weight in lbs = ')
-print(type(weight))
-weight_in_kg = 0.4535924*float(weight)
-print(type(weight_in_kg))
-print(weight_in_kg)
